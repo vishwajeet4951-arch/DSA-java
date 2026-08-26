@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/1089-duplicate-zeros) |
@@ -31,10 +32,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
