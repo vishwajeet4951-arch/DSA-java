@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0485-max-consecutive-ones) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0977-squares-of-a-sorted-array) |
