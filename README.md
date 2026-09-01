@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0088-merge-sorted-array) |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
