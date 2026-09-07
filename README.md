@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0485-max-consecutive-ones) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -72,6 +74,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0268-missing-number) |
 ## Greedy
 |  |
