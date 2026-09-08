@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/1089-duplicate-zeros) |
@@ -76,6 +77,7 @@
 | [0169-majority-element](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Greedy
 |  |
 | ------- |
