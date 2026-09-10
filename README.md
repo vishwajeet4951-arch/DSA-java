@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -28,6 +29,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
