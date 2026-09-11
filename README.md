@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0334-increasing-triplet-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0268-missing-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
