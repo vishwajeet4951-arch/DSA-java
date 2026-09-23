@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishwajeet4951-arch/DSA-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
